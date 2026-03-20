@@ -1,3 +1,3 @@
-# React Labs (10%)
+# All Officials
 
-Links to the React Labs uploads
+General resources for all officials

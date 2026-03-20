@@ -1,3 +1,3 @@
-# React Labs (10%)
+# NSO (Non-Skating Official)
 
-Links to the React Labs uploads
+Resources for Non-Skating Officials

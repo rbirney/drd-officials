@@ -1,3 +1,9 @@
-# React Labs (10%)
+---
+icon:
+  type: stash:stopwatch-solid
+  color: royalblue
+---
 
-Links to the React Labs uploads
+# Penalty Box Timer (PBT)
+
+Learn about the Penalty Box Timer (PBT) role

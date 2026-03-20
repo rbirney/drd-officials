@@ -1,3 +1,3 @@
-# React Labs (10%)
+# SO (Skating Official)
 
-Links to the React Labs uploads
+Resources for Skating Officials ("Referees")
