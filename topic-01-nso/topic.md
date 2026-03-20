@@ -1,3 +1,3 @@
-# NSO (Non-Skating Official)
+# NSOs (Non-Skating Officials)
 
 Resources for Non-Skating Officials
