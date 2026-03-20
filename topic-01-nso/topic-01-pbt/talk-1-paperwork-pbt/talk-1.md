@@ -1,7 +1,8 @@
 ---
+order: 3
 icon:
   type: quill:paper
-  color: royalblue
+  color: EB4242
 ---
 
 # Penalty Box Paperwork

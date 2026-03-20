@@ -1,7 +1,8 @@
 ---
+order: 1
 icon:
   type: icon-park-outline:video
-  color: royalblue
+  color: EB4242
 ---
 
 # PBT Videos

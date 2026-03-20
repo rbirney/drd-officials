@@ -1,7 +1,8 @@
 ---
+order: 2
 icon:
   type: tabler:book
-  color: royalblue
+  color: EB4242
 ---
 
 # PBT Manual

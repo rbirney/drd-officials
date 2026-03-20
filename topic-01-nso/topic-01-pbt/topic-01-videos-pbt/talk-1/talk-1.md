@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:search-rounded
-  color: royalblue
+  color: EF6B6B
 ---
 
 # Paperwork Overview
