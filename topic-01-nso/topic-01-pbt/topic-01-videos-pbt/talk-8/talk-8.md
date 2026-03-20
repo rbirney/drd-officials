@@ -1,7 +1,7 @@
 ---
 icon:
   type: sidekickicons:check-double-16-solid
-  color: EF6B6B
+  color: C71515
 ---
 
 # Timing Double Penalties

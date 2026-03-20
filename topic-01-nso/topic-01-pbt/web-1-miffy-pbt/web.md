@@ -2,7 +2,7 @@
 order: 2
 icon:
   type: tabler:book
-  color: EB4242
+  color: C71515
 ---
 
 # PBT Manual

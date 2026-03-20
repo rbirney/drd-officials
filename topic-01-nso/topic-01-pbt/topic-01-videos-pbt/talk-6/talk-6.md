@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:star-rounded
-  color: EF6B6B
+  color: C71515
 ---
 
 # Jammer Penalties

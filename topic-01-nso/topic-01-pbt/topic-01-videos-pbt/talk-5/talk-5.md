@@ -1,7 +1,7 @@
 ---
 icon:
   type: fluent:arrow-between-down-24-filled
-  color: EF6B6B
+  color: C71515
 ---
 
 # Between Jams

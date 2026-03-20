@@ -2,7 +2,7 @@
 order: 3
 icon:
   type: quill:paper
-  color: EB4242
+  color: C71515
 ---
 
 # Penalty Box Paperwork

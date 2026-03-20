@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:person-rounded
-  color: EF6B6B
+  color: C71515
 ---
 
 # Timing One Skater

@@ -2,7 +2,7 @@
 order: 1
 icon:
   type: icon-park-outline:video
-  color: EB4242
+  color: C71515
 ---
 
 # PBT Videos

@@ -1,7 +1,7 @@
 ---
 icon:
   type: lucide:tally-5
-  color: EF6B6B
+  color: C71515
 ---
 
 # Tracking Penalty Counts

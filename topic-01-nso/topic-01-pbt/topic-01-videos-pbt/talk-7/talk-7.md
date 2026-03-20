@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:numbers-rounded
-  color: EF6B6B
+  color: C71515
 ---
 
 # Tracking Jam Numbers

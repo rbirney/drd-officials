@@ -1,7 +1,7 @@
 ---
 icon:
   type: fa7-solid:arrow-down-up-across-line
-  color: EF6B6B
+  color: C71515
 ---
 
 # Timing Penalties Across Jams
