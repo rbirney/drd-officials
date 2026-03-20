@@ -1,1 +1,0 @@
-Database Concepts and Terminology

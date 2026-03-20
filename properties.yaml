@@ -1,9 +1,9 @@
-credits        : Resources collated by Dublin Roller Derby officials
+credits :     Resources collated by DRD officials
 icon :
-  type: mingcute:whistle-line
-  color: royalblue
-private: 1
-ignorepin      : 1122
+    type :    mingcute:whistle-line
+    color :   royalblue
+private :     1
+ignorepin :   1122
 ignore :
 # - topic-01-Introduction
 
