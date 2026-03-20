@@ -6,4 +6,4 @@ icon:
 
 # Paperwork Overview
 
-Video 1/9: Overview of the Penalty Box Timing Paperwork
+Video 1/9: Penalty Box Paperwork Overview
