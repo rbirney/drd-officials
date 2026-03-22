@@ -1,10 +1,10 @@
 ---
-order: 2
+order: 1
 icon:
   type: tabler:book
   color: DB7704
 ---
 
-# PBT Manual
+# PBM Manual
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+A manual about Penalty Box Managing (by Pretty Miffed)

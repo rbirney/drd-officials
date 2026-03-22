@@ -1,10 +1,10 @@
 ---
 order: 2
 icon:
-  type: tabler:book
+  type: ep:guide
   color: DB7704
 ---
 
-# PBT Manual
+# PBM Guide
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+PBM Guide (by StackTrace, Non-Skating Club)

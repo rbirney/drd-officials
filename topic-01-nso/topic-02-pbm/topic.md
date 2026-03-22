@@ -1,9 +1,9 @@
 ---
 icon:
-  type: stash:stopwatch-solid
+  type: fa7-solid:users
   color: DB7704
 ---
 
-# Penalty Box Timer (PBT)
+# Penalty Box Manager (PBM)
 
-Learn about the Penalty Box Timer (PBT) role
+Understand the role of Penalty Box Manager (PBM)

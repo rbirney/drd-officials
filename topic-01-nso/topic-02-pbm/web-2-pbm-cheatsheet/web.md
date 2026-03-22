@@ -1,10 +1,10 @@
 ---
-order: 2
+order: 3
 icon:
-  type: tabler:book
+  type: bx:spreadsheet
   color: DB7704
 ---
 
-# PBT Manual
+# PBM Cheatsheet
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+Graphics from Roller Derby Rule of the Day
