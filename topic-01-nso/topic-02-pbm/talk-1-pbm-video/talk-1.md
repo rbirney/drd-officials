@@ -7,4 +7,4 @@ icon:
 
 # Penalty Box Intro
 
-Video by Officially Mel, covers PBT and some PBM
+Video by Officially Mel, covers both PBT and PBM

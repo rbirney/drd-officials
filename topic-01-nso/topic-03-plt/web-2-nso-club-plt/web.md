@@ -1,10 +1,10 @@
 ---
 order: 2
 icon:
-  type: tabler:book
+  type: ep:guide
   color: CDA504
 ---
 
-# PBT Manual
+# PLT Guide
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+PLT Guide (by StackTrace, Non-Skating Club)

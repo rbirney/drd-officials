@@ -1,10 +1,10 @@
 ---
-order: 2
+order: 1
 icon:
   type: tabler:book
   color: CDA504
 ---
 
-# PBT Manual
+# PLT Manual
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+A manual about Penalty Lineup Tracking (by Pretty Miffed)

@@ -1,9 +1,10 @@
 ---
+order: 3
 icon:
-  type: material-symbols:search-rounded
+  type: mingcute:video-fill
   color: CDA504
 ---
 
-# Paperwork Overview
+# PLT Video
 
-Video 1/9: Penalty Box Paperwork Overview
+Introduction to PLT; Video by Officially Mel

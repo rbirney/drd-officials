@@ -1,9 +1,10 @@
 ---
+order: 4
 icon:
-  type: material-symbols:search-rounded
-  color: 702dce
+  type: mingcute:video-fill
+  color: DB7704
 ---
 
-# Paperwork Overview
+# Penalty Box Intro
 
-Video 1/9: Penalty Box Paperwork Overview
+Video by Officially Mel, covers both PBT and PBM

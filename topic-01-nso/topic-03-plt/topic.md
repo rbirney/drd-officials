@@ -1,9 +1,9 @@
 ---
 icon:
-  type: stash:stopwatch-solid
+  type: mdi:clipboard-outline
   color: CDA504
 ---
 
-# Penalty Box Timer (PBT)
+# Penalty Lineup Tracker (PLT)
 
-Learn about the Penalty Box Timer (PBT) role
+Learn how to track both penalties and lineups as PLT
