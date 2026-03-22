@@ -1,9 +1,9 @@
 ---
 icon:
-  type: material-symbols:search-rounded
+  type: mingcute:video-fill
   color: 04cdb2
 ---
 
-# Paperwork Overview
+# Penalty Wrangling Video
 
-Video 1/9: Penalty Box Paperwork Overview
+Video about Penalty Wrangling, by JestHer

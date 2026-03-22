@@ -1,10 +1,10 @@
 ---
 order: 2
 icon:
-  type: tabler:book
-  color: df2ce9
+  type: ep:guide
+  color: DB7704
 ---
 
-# PBT Manual
+# SBO Guide
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+SBO Guide (by StackTrace, Non-Skating Club)

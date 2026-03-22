@@ -1,9 +1,9 @@
 ---
 icon:
-  type: stash:stopwatch-solid
+  type: material-symbols:scoreboard-outline
   color: df2ce9
 ---
 
-# Penalty Box Timer (PBT)
+# Scoreboard Operator (SBO)
 
-Learn about the Penalty Box Timer (PBT) role
+Understand how to operate the scoreboard at a roller derby game

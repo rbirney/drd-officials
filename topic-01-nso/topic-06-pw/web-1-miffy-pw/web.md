@@ -1,10 +1,9 @@
 ---
-order: 2
 icon:
   type: tabler:book
   color: 04cdb2
 ---
 
-# PBT Manual
+# PW Manual
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+A manual about Penalty Wrangling (by Pretty Miffed)

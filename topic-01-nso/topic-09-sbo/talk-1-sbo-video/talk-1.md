@@ -1,9 +1,10 @@
 ---
+order: 3
 icon:
-  type: material-symbols:search-rounded
+  type: mingcute:video-fill
   color: df2ce9
 ---
 
-# Paperwork Overview
+# SBO (Video)
 
-Video 1/9: Penalty Box Paperwork Overview
+CRG Scoreboard Training (by Wheels Bohr)

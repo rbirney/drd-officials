@@ -1,10 +1,10 @@
 ---
-order: 2
+order: 1
 icon:
   type: tabler:book
   color: df2ce9
 ---
 
-# PBT Manual
+# SBO Manual
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+A manual about Scoreboard Operating (by Pretty Miffed)

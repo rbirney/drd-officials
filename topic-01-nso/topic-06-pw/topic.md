@@ -1,9 +1,9 @@
 ---
 icon:
-  type: stash:stopwatch-solid
+  type: lucide:lasso
   color: 04cdb2
 ---
 
-# Penalty Box Timer (PBT)
+# Penalty Wrangler (PW)
 
-Learn about the Penalty Box Timer (PBT) role
+Learn about the role of Penalty Wrangler (PW)
