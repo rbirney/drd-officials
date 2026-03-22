@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:scoreboard-outline
-  color: df2ce9
+  color: c21dca
 ---
 
 # Scoreboard Operator (SBO)

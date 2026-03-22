@@ -1,9 +1,9 @@
 ---
 icon:
-  type: material-symbols:search-rounded
-  color: 1934e6
+  type: mingcute:video-fill
+  color: 112aca
 ---
 
-# Paperwork Overview
+# Jam Timing Video
 
-Video 1/9: Penalty Box Paperwork Overview
+JT Video, by All Things Roller Derby

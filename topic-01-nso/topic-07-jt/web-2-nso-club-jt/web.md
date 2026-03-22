@@ -1,10 +1,10 @@
 ---
 order: 2
 icon:
-  type: tabler:book
-  color: 1934e6
+  type: ep:guide
+  color: 112aca
 ---
 
-# PBT Manual
+# JT Guide
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+JT Guide (by StackTrace, Non-Skating Club)

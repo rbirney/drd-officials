@@ -1,4 +1,5 @@
 ---
+order: 1
 icon:
   type: tabler:book
   color: 04cdb2

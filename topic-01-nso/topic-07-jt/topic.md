@@ -1,9 +1,9 @@
 ---
 icon:
-  type: stash:stopwatch-solid
+  type: mingcute:whistle-fill
   color: 112aca
 ---
 
-# JT - To Do
+# Jam Timer (JT)
 
-Learn about the Penalty Box Timer (PBT) role
+Understand the role of a Jam Timer

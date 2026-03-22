@@ -1,10 +1,10 @@
 ---
-order: 2
+order: 1
 icon:
   type: tabler:book
-  color: 1934e6
+  color: 112aca
 ---
 
-# PBT Manual
+# JT Manual
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+A manual about Jam Timing (by Pretty Miffed)

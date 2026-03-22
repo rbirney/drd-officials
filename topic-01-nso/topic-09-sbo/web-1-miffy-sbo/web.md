@@ -2,7 +2,7 @@
 order: 1
 icon:
   type: tabler:book
-  color: df2ce9
+  color: c21dca
 ---
 
 # SBO Manual

@@ -2,7 +2,7 @@
 order: 2
 icon:
   type: ep:guide
-  color: DB7704
+  color: c21dca
 ---
 
 # SBO Guide

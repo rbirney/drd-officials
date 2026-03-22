@@ -1,4 +1,5 @@
 ---
+order: 2
 icon:
   type: mingcute:video-fill
   color: 04cdb2
