@@ -1,7 +1,7 @@
 ---
 icon:
   type: stash:stopwatch-solid
-  color: 1934e6
+  color: 112aca
 ---
 
 # Penalty Box Timer (PBT)
