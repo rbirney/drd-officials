@@ -45,35 +45,17 @@ ATRD video
 
 
 # 8 sk 
-DRD videos
+DRD videos (out of date - not included for now)
 Miffy manual
 Officially Mel videos
 Paperwork
 
 
 # 9 sbo 
+DRD videos (out of date - not included for now)
 Miffy manual
 Non-skating club guide
 WheelsBohr video
 
 
-
-
-
-/* Skating Officials */
-
-/* All Officials */
-
-WFTDA Rules
-Casebook
-
-WFTDA Cues, Codes, Signals
-Signals cheat sheet
-
-WFTDA Statsbook
-Statsbook Tool
-
-WFTDA Officiating Education
-WFTDA Certification
-Officiating History
 
