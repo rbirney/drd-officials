@@ -4,6 +4,6 @@ icon:
   color: 2cc224
 ---
 
-# SK - To Do
+# Penalty Tracking
 
-Learn about the Penalty Box Timer (PBT) role
+Learn about the Penalty Tracking role

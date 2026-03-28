@@ -5,6 +5,6 @@ icon:
   color: 0ecd04
 ---
 
-# Penalty Box Paperwork
+# Penalty Tracking Paperwork
 
-A blank penalty box timing sheet 
+A blank penalty tracking sheet

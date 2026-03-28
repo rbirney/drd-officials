@@ -6,4 +6,4 @@ icon:
 
 # Paperwork Overview
 
-Video 1/9: Penalty Box Paperwork Overview
+Video 1/8: Penalty Tracking Paperwork Overview

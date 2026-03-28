@@ -5,6 +5,6 @@ icon:
   color: 0ecd04
 ---
 
-# PBT Manual
+# PT Manual
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+A manual about Penalty Tracking (by Pretty Miffed)

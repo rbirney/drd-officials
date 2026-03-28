@@ -5,6 +5,6 @@ icon:
   color: 0ecd04
 ---
 
-# PBT Videos
+# PT Videos
 
-A series of videos about Penalty Box Timing (by JestHer)
+A series of videos about Penalty Tracking (by JestHer)

@@ -4,6 +4,6 @@ icon:
   color: 0ecd04
 ---
 
-# Timing One Skater
+# PT Paperwork Basics
 
-Video 2/9: Timing One Skater
+Video 2/8: PT Paperwork Basics

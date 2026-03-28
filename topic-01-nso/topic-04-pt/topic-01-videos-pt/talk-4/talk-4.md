@@ -4,6 +4,6 @@ icon:
   color: 0ecd04
 ---
 
-# Timing Two Skaters
+# Timeouts and Team Questions
 
-Video 4/9: Timing Two Skaters
+Video 4/8: Timeouts and Team Questions

@@ -4,6 +4,6 @@ icon:
   color: 0ecd04
 ---
 
-# Timing Penalties Across Jams
+# Dealing with lots of Penalties
 
-Video 3/9: Timing Penalties Across Jams
+Video 3/8: Dealing with lots of Penalties

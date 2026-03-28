@@ -4,6 +4,6 @@ icon:
   color: 0ecd04
 ---
 
-# Timing Double Penalties
+# Penalty Wrangling
 
-Video 8/9: Timing Double Penalties
+Video 8/8: Penalty Wrangling

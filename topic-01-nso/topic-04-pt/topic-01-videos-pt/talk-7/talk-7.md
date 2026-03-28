@@ -4,6 +4,6 @@ icon:
   color: 0ecd04
 ---
 
-# Tracking Jam Numbers
+# End of Period
 
-Video 7/9: Tracking Jam Numbers
+Video 7/8: End of Period

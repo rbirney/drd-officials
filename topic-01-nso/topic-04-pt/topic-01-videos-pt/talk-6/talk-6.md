@@ -4,6 +4,6 @@ icon:
   color: 0ecd04
 ---
 
-# Jammer Penalties
+# Non-Skater Expulsions
 
-Video 6/9: Recording Jammer Penalties
+Video 6/8: Non-Skater Expulsions
