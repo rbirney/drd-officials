@@ -2,9 +2,9 @@
 order: 1
 icon:
   type: icon-park-outline:video
-  color: a1cd04
+  color: 15980f
 ---
 
-# PBT Videos
+# LT Videos
 
-A series of videos about Penalty Box Timing (by JestHer)
+A series of videos about Lineup Tracking (by JestHer)

@@ -2,9 +2,9 @@
 order: 2
 icon:
   type: tabler:book
-  color: a1cd04
+  color: 15980f
 ---
 
-# PBT Manual
+# LT Manual
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+A manual about Lineup Tracking (by Pretty Miffed)

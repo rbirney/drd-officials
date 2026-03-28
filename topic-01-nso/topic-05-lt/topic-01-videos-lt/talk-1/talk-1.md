@@ -1,9 +1,9 @@
 ---
 icon:
-  type: material-symbols:search-rounded
-  color: a1cd04
+  type: material-symbols:overview-outline-rounded
+  color: 15980f
 ---
 
 # Paperwork Overview
 
-Video 1/9: Penalty Box Paperwork Overview
+Video 1/5: Lineup Tracking Paperwork Overview

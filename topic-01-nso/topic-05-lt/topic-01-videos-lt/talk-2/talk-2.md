@@ -1,9 +1,9 @@
 ---
 icon:
-  type: material-symbols:person-rounded
-  color: a1cd04
+  type: material-symbols:numbers-rounded
+  color: 15980f
 ---
 
-# Timing One Skater
+# Skater Numbers
 
-Video 2/9: Timing One Skater
+Video 2/5: Skater Numbers

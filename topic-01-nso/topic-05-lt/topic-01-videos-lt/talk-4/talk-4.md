@@ -1,9 +1,9 @@
 ---
 icon:
-  type: mdi:people
-  color: a1cd04
+  type: boxicons:star
+  color: 15980f
 ---
 
-# Timing Two Skaters
+# Star Passes
 
-Video 4/9: Timing Two Skaters
+Video 4/5: Star Passes

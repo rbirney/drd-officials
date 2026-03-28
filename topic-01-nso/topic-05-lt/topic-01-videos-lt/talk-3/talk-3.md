@@ -1,9 +1,9 @@
 ---
 icon:
-  type: fa7-solid:arrow-down-up-across-line
-  color: a1cd04
+  type: material-symbols:fmd-bad-outline-rounded
+  color: 15980f
 ---
 
-# Timing Penalties Across Jams
+# Penalties
 
-Video 3/9: Timing Penalties Across Jams
+Video 3/5: Penalties

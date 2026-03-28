@@ -2,9 +2,9 @@
 order: 3
 icon:
   type: quill:paper
-  color: a1cd04
+  color: 15980f
 ---
 
-# Penalty Box Paperwork
+# Lineup Tracking Paperwork
 
-A blank penalty box timing sheet 
+A blank lineup tracking sheet 
