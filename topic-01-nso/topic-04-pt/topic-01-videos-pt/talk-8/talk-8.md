@@ -1,7 +1,7 @@
 ---
 icon:
   type: sidekickicons:check-double-16-solid
-  color: 0ecd04
+  color: 9db85e
 ---
 
 # Penalty Wrangling

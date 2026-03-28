@@ -4,6 +4,6 @@ icon:
   color: 9db85e
 ---
 
-# Penalty Tracking
+# Penalty Tracker (PT)
 
-Learn about the Penalty Tracker (PT) role
+Track both teams penalties as the PT (Penalty Tracker)

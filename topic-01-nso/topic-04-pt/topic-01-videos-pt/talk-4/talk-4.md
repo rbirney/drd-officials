@@ -1,7 +1,7 @@
 ---
 icon:
   type: mdi:people
-  color: 0ecd04
+  color: 9db85e
 ---
 
 # Timeouts and Team Questions

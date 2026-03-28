@@ -2,7 +2,7 @@
 order: 2
 icon:
   type: tabler:book
-  color: 0ecd04
+  color: 9db85e
 ---
 
 # PT Manual

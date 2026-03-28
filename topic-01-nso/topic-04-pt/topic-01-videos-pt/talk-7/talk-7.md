@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:numbers-rounded
-  color: 0ecd04
+  color: 9db85e
 ---
 
 # End of Period

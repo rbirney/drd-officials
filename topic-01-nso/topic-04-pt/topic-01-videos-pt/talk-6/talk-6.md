@@ -1,7 +1,7 @@
 ---
 icon:
   type: material-symbols:star-rounded
-  color: 0ecd04
+  color: 9db85e
 ---
 
 # Non-Skater Expulsions

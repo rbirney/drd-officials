@@ -4,6 +4,6 @@ icon:
   color: 702dce
 ---
 
-# Score Keeping
+# Scorekeeper (SK)
 
-Learn about the Score Keeper (SK) role
+Learn about the Scorekeeper (SK) role

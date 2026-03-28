@@ -6,4 +6,4 @@ icon:
 
 # Penalty Box Timer (PBT)
 
-Learn about the Penalty Box Timer (PBT) role
+Learn about timing penalties and the Penalty Box Timer (PBT) role

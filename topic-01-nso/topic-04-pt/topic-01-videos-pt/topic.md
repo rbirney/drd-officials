@@ -2,7 +2,7 @@
 order: 1
 icon:
   type: icon-park-outline:video
-  color: 0ecd04
+  color: 9db85e
 ---
 
 # PT Videos

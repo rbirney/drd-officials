@@ -2,7 +2,7 @@
 order: 3
 icon:
   type: quill:paper
-  color: 0ecd04
+  color: 9db85e
 ---
 
 # Penalty Tracking Paperwork

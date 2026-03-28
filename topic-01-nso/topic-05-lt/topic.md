@@ -4,6 +4,6 @@ icon:
   color: 15980f
 ---
 
-# Lineup Tracking
+# Lineup Tracker (LT)
 
-Learn about the Lineup Tracker (LT) role
+Keeping track of who's on track as the Lineup Tracker (LT)

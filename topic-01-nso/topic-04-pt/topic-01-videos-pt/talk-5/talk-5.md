@@ -1,7 +1,7 @@
 ---
 icon:
   type: fluent:arrow-between-down-24-filled
-  color: 0ecd04
+  color: 9db85e
 ---
 
 # Foul Outs and Expulsions
