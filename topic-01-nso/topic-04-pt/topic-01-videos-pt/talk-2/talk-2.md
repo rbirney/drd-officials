@@ -4,6 +4,6 @@ icon:
   color: 9db85e
 ---
 
-# PT Paperwork Basics
+# PT: Paperwork Basics
 
 Video 2/8: PT Paperwork Basics

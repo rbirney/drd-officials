@@ -4,6 +4,6 @@ icon:
   color: 9db85e
 ---
 
-# Dealing with lots of Penalties
+# PT: Dealing with lots of Penalties
 
 Video 3/8: Dealing with lots of Penalties

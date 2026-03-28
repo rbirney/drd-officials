@@ -5,6 +5,6 @@ icon:
   color: 702dce
 ---
 
-# Penalty Box Paperwork
+# Scorekeeping Paperwork
 
-A blank penalty box timing sheet 
+A blank Scorekeeping sheet 

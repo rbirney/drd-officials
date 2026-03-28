@@ -4,6 +4,6 @@ icon:
   color: 15980f
 ---
 
-# Penalties
+# LT: Penalties
 
 Video 3/5: Penalties

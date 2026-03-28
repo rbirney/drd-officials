@@ -4,6 +4,6 @@ icon:
   color: 9db85e
 ---
 
-# Foul Outs and Expulsions
+# PT: Foul Outs and Expulsions
 
 Video 5/8: Foul Outs and Expulsions

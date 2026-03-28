@@ -4,6 +4,6 @@ icon:
   color: 15980f
 ---
 
-# Star Passes
+# LT: Star Passes
 
 Video 4/5: Star Passes

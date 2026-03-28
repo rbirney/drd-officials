@@ -1,10 +1,10 @@
 ---
-order: 4
+order: 1
 icon:
   type: mingcute:video-fill
-  color: DB7704
+  color: 702dce
 ---
 
-# Penalty Box Intro
+# Scorekeeping (Video)
 
-Video by Officially Mel, covers both PBT and PBM
+Introduction to Scorekeeping (by Officially Mel)

@@ -5,6 +5,6 @@ icon:
   color: 702dce
 ---
 
-# PBT Manual
+# SK Manual
 
-A manual about Penalty Box Timing (by Pretty Miffed)
+A manual about Scorekeeping (by Pretty Miffed)

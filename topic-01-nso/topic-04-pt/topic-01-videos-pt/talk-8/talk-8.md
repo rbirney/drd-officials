@@ -4,6 +4,6 @@ icon:
   color: 9db85e
 ---
 
-# Penalty Wrangling
+# PT: Penalty Wrangling
 
 Video 8/8: Penalty Wrangling
