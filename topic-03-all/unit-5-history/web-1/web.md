@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: material-symbols:history-rounded
+  color: FF80B0
 ---
 
 # Officiating History Manual

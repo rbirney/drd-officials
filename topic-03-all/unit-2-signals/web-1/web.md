@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: ph:hand-pointing-bold
+  color: FF80B0
 ---
 
 # Cues, Codes, and Signals

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: tabler:files
+  color: FF80B0
 ---
 
 # StatsBook Files

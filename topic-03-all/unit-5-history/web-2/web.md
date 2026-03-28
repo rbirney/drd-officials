@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: mdi:register-outline
+  color: FF80B0
 ---
 
 # Create a new Officiating History Document

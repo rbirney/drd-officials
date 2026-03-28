@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: streamline:manual-book
+  color: FF80B0
 ---
 
 # StatsBook Manual

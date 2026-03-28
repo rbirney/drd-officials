@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: mingcute:certificate-line
+  color: FF80B0
 ---
 
 # WFTDA Certification

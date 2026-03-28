@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: material-symbols:book-outline
+  color: FF80B0
 ---
 
 # WFTDA Casebook

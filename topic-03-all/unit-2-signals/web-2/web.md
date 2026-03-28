@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: material-symbols:quickreply-outline-rounded
+  color: FF80B0
 ---
 
 # Penalty Quick Reference

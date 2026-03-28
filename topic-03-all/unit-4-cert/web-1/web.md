@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: mdi:learn-outline
+  color: FF80B0
 ---
 
 # WFTDA Officiation Education

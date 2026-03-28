@@ -1,7 +1,7 @@
 ---
 icon:
-  type: tabler:book
-  color: C71515
+  type: icon-park-outline:checklist
+  color: FF80B0
 ---
 
 # WFTDA Rules
