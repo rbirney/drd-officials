@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fluent:arrow-between-down-24-filled
+  type: guidance:forbidden-2
   color: 9db85e
 ---
 

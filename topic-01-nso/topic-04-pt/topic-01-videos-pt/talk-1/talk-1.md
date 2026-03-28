@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:search-rounded
+  type: grommet-icons:overview
   color: 9db85e
 ---
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: material-symbols:person-rounded
-  color: 0ecd04
+  type: streamline-ultimate:paper-write-bold
+  color: 9db85e
 ---
 
 # PT Paperwork Basics

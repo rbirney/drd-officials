@@ -1,6 +1,6 @@
 ---
 icon:
-  type: fa7-solid:arrow-down-up-across-line
+  type: material-symbols:sentiment-stressed-outline-rounded
   color: 9db85e
 ---
 

@@ -1,6 +1,6 @@
 ---
 icon:
-  type: sidekickicons:check-double-16-solid
+  type: lucide:lasso
   color: 9db85e
 ---
 

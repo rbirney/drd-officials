@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:star-rounded
+  type: emojione-monotone:letter-a
   color: 9db85e
 ---
 

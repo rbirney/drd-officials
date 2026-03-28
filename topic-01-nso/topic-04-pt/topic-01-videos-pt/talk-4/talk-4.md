@@ -1,6 +1,6 @@
 ---
 icon:
-  type: mdi:people
+  type: fluent:clock-pause-24-regular
   color: 9db85e
 ---
 

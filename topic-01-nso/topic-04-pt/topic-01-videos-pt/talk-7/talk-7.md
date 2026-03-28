@@ -1,6 +1,6 @@
 ---
 icon:
-  type: material-symbols:numbers-rounded
+  type: mdi:clock-end
   color: 9db85e
 ---
 
