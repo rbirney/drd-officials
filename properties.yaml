@@ -1,7 +1,7 @@
 credits :     Resources collated by DRD officials
 ignorepin :   1122
 ignore :
- - topic-01-nso
+# - topic-01-nso
 # - topic-02-so
 # - topic-03-all
  - topic-99-hidden
