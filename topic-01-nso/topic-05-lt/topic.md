@@ -1,9 +1,9 @@
 ---
 icon:
-  type: stash:stopwatch-solid
+  type: ph:list-checks-bold
   color: 15980f
 ---
 
-# LT - To Do
+# Lineup Tracking
 
-Learn about the Penalty Box Timer (PBT) role
+Learn about the Lineup Tracker (LT) role

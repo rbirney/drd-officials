@@ -1,9 +1,9 @@
 ---
 icon:
-  type: stash:stopwatch-solid
+  type: gg:add
   color: 702dce
 ---
 
-# SK - To Do
+# Score Keeping
 
-Learn about the Penalty Box Timer (PBT) role
+Learn about the Score Keeper (SK) role

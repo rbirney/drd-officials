@@ -1,9 +1,9 @@
 ---
 icon:
-  type: stash:stopwatch-solid
-  color: 2cc224
+  type: tabler:track
+  color: 9db85e
 ---
 
 # Penalty Tracking
 
-Learn about the Penalty Tracking role
+Learn about the Penalty Tracker (PT) role
