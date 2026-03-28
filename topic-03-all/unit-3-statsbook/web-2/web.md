@@ -6,4 +6,4 @@ icon:
 
 # StatsBook Manual
 
-The StatsBook Manual provides detailed instructions on how to complete the WFTDA StatsBook
+Detailed instructions on how to complete the WFTDA StatsBook

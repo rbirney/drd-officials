@@ -1,3 +1,3 @@
 # SOs (Skating Officials)
 
-Resources for Skating Officials ("Referees")
+Resources for Skating Officials - Coming Soon!

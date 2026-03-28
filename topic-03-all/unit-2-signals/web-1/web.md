@@ -6,4 +6,4 @@ icon:
 
 # Cues, Codes, and Signals
 
-Guide to standardized verbal communication, whistle cues, and hand signals
+Guide to standardized verbal cues, whistles, and hand signals
