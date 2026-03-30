@@ -7,4 +7,4 @@ icon:
 
 # SBO Guide
 
-SBO Guide (by StackTrace, Non-Skating Club)
+SBO Guide (by Bill O'Fights, Non-Skating Club)
